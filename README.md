@@ -1,7 +1,7 @@
-# overview
+### overview
 This project implements a web server using **Reactjs** frontend and **Go** for the backend.
 
-# Team
+### Team
 Ganesh, Dylan, Stevenson and Maichel
 
 ## Back-End
