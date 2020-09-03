@@ -1,4 +1,8 @@
-# Phase 3
+# overview
+This project implements a web server using **Reactjs** frontend and **Go** for the backend.
+
+# Team
+Ganesh, Dylan, Stevenson and Maichel
 
 ## Back-End
 All back-end code exists in the `back-end/` directory. It is a prerequisite that the Postgres database be
