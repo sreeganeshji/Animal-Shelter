@@ -2,7 +2,7 @@
 This project implements a web server using **Reactjs** frontend and **Golang** with **Postgres** database for the backend.
 
 ### Team
-Ganesh, Dylan, Stevenson and Maichel
+Ganesh, Dylan, Stevenson and Michael.
 
 ## Back-End
 All back-end code exists in the `back-end/` directory. It is a prerequisite that the Postgres database be
