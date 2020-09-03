@@ -1,0 +1,13 @@
+version: '3.6'
+
+services:
+    db:
+        image: postgres:12.3
+        environment:
+            - POSTGRES_DB=postgres
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        ports:
+            - "5432:5432"
+        volumes:
+        - ./sql/CreateSchema.sql:/docker-entrypoint-initdb.d/init.sql

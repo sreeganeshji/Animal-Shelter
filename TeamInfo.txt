@@ -1,0 +1,7 @@
+There is SQL code in 2 places:
+
+1. An initialization script is located
+/Phase_3/sql/CreateSchema.sql
+
+2. The Application SQL is located
+/Phase_3/back-end/database/database.go
