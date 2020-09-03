@@ -1,5 +1,5 @@
 ### overview
-This project implements a web server using **Reactjs** frontend and **Go** for the backend.
+This project implements a web server using **Reactjs** frontend and **Golang** with **Postgres** database for the backend.
 
 ### Team
 Ganesh, Dylan, Stevenson and Maichel
